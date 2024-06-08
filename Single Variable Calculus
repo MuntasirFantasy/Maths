@@ -1,4 +1,7 @@
+
 Problem:
 1. Find the tangent line to y=f(x) at P=(x0, y0) ?
 Hint:
   f`(x0) is the derivative of f at x0, is the slope of the tangent line to y=f(x) at P.
+
+2. Find areas of triangles enclosed by axes and the tangent to y=(1/x)?
