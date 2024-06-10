@@ -15,3 +15,6 @@ Limits & Continuity:
 2. Right hand limit (x->c+)
 
   The concept of left hand limit and right hand limit are concepts used to describe behavior of a function as it approaches a specific point from the left and the right.
+
+Continuity: 
+  f(x) is continuous at x0 if lim(f(x)x->x0) = f(x0)
