@@ -17,4 +17,8 @@ Limits & Continuity:
   The concept of left hand limit and right hand limit are concepts used to describe behavior of a function as it approaches a specific point from the left and the right.
 
 Continuity: 
-  f(x) is continuous at x0 if lim(f(x)x->x0) = f(x0)
+  f(x) is continuous at x0 if lim(f(x)x->x0) = f(x0). 
+
+Theorem of continuity:
+  1. If a funciton f is differentiable at x0, then f is continuous at x0.
+
